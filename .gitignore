@@ -1,0 +1,23 @@
+# Virtual environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Pytest cache
+.pytest_cache/
+
+# Generated logs and reports
+logs/*.log
+reports/*.txt
+
+# Intentionally broken practice data
+data/broken_rooms.json
+
+# Environment variables and secrets
+.env
+
+# Editor settings
+.vscode/

@@ -1,0 +1,20 @@
+[
+  {
+    "room_number" : 12,
+    "dog_name" : "Astrid",
+    "camera_status" : "healthy", 
+    "occupied" : true
+  },
+  {
+    "room_number" : 14,
+    "dog_name" : "Haggen",
+    "camera_status" : "failed", 
+    "occupied" : true
+  },
+  {
+    "room_number" : 18,
+    "dog_name" : null,
+    "camera_status" : "unknown", 
+    "occupied" : false
+  }
+]
